@@ -8,7 +8,7 @@
 </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt="Mauricio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/815949257722560526/890950552928813106/ezgif.com-gif-maker.gif?width=676&height=676">
+  <img align="right" alt="Mauricio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/815949257722560526/890950552928813106/ezgif.com-gif-maker.gif?width=676&height=676">
 </div>
   
    ##
