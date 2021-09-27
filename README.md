@@ -8,6 +8,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="VHDL" height="30" width="40" src="https://cdn.discordapp.com/attachments/815949257722560526/892027841175236638/200x200bb.png">
   <img align="right" alt="Mauricio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/815949257722560526/890950552928813106/ezgif.com-gif-maker.gif">
 </div>
 
