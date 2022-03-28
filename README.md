@@ -10,6 +10,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VHDL" height="30" width="30" src="https://cdn.discordapp.com/attachments/815949257722560526/892032386689290300/vhdl_icon_131901.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
   <img align="right" alt="Mauricio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/815949257722560526/890950552928813106/ezgif.com-gif-maker.gif">
 </div>
 
